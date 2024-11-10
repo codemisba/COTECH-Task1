@@ -64,8 +64,11 @@ The visual analysis phase involves examining the distributions, relationships, a
 *Insight:* Boxplots allow us to observe how data is distributed around the median, revealing skewness, the interquartile range, and outliers. For example, petal width and length often have a greater spread and visible outliers, especially when comparing across species.
 
 ![image alt](https://github.com/codemisba/COTECH-Task1/blob/d05c50dfa8ac7da633db411cdf2a0a49473aa5f6/task1-%20boxplot1.PNG)
+
 ![image alt](https://github.com/codemisba/COTECH-Task1/blob/59f5699d0d147a9b54b7d77f6f0a253327dece5b/task1-%20boxplot2.PNG)
+
 ![image alt](https://github.com/codemisba/COTECH-Task1/blob/59f5699d0d147a9b54b7d77f6f0a253327dece5b/task1-%20boxplot3.PNG)
+
 ![image alt](https://github.com/codemisba/COTECH-Task1/blob/59f5699d0d147a9b54b7d77f6f0a253327dece5b/task1-%20boxplot4.PNG)
 
  A *correlation matrix* is a table showing the correlation coefficients between pairs of features. Each coefficient ranges from -1 to 1, where:
