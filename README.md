@@ -6,7 +6,8 @@ NAME: SAYEEDA MISBAH ILYAS
 COMPANY: COTECH IT SOLUTIONS                                                                                                                                                                                                                              
 ID: CT08DS9133                                                                                                                                                                                                                                        
 DOMAIN: DATA SCIENCE                                                                                                                                                                                                                                
-DURATION: OCT - NOV 2024                                                                                                                                                                                                                              MENTOR: 
+DURATION: OCT - NOV 2024                                                                                                                                                                                                                             
+MENTOR: 
   
 **1. PROJECT OVERVIEW** 
 
