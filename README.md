@@ -49,7 +49,7 @@ The visual analysis phase involves examining the distributions, relationships, a
 *Purpose:* To understand the distribution of each numerical feature (sepal length, sepal width, petal length, and petal width).   
 *Insight:* Histograms help reveal whether features are normally distributed, skewed, or bimodal. They also provide a quick overview of ranges and potential variations within each feature. For instance, petal width and petal length typically show more variation across species than sepal measurements.
 
-
+![image alt](https://github.com/codemisba/COTECH-Task1/blob/2aa7a0fe7f2278650958037a718ac3db51679e04/task1-%20histogram.PNG)
 
 **b) Pair Plot :**
 
