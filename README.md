@@ -3,7 +3,8 @@
 **EXPLORATION EXPLORATORY DATA ANALYSIS (EDA)**
 
 NAME: SAYEEDA MISBAH ILYAS                                                                                                                                                                                                                           
-COMPANY: COTECH IT SOLUTIONS                                                                                                                                                                                                                              ID: CT08DS9133                                                                                                                                                                                                                                        
+COMPANY: COTECH IT SOLUTIONS                                                                                                                                                                                                                              
+ID: CT08DS9133                                                                                                                                                                                                                                        
 DOMAIN: DATA SCIENCE                                                                                                                                                                                                                                
 DURATION: OCT - NOV 2024                                                                                                                                                                                                                              MENTOR: 
   
