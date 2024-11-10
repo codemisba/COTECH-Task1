@@ -56,6 +56,8 @@ The visual analysis phase involves examining the distributions, relationships, a
 *Purpose:* To visualize distributions and relationships between all pairs of features simultaneously.
 *Insight:* Pair plots provide a grid of scatter plots and histograms for quick, comprehensive insights. In the Iris dataset, pair plots can reveal natural groupings by species and help distinguish which features are the most informative for species classification.
 
+![image alt](https://github.com/codemisba/COTECH-Task1/blob/4b7650e55144dafb0bdbcba35af4594371b586b6/task1-pairplot.PNG)
+
 **c) Boxplots for Outlier Detection:**
 
 *Purpose:* To identify potential outliers and the spread of each feature.
