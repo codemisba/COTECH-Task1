@@ -82,7 +82,9 @@ In this matrix, the diagonal values are always 1 because each feature is perfect
 This *Heapmap** visually shows the strength and direction of relationships between the features in the Iris dataset. 
 - Each cell in the heatmap represents the correlation value between two features, ranging from -1 (strong negative correlation) to +1 (strong positive correlation). 
 - Positive values indicate that as one feature increases, the other also tends to increase
-- Negative values indicate an inverse relationship. 
+- Negative values indicate an inverse relationship.
+
+![image alt](https://github.com/codemisba/COTECH-Task1/blob/2502e9fe75314730f7bda4f10609b42be91d8aa1/task1-%20heap.PNG)
 
 This analysis helps identify which features may be more closely related, which is useful for selecting features or understanding patterns in the data.
 
